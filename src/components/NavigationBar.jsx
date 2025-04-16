@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function NavigationBar() {
   return (
-    <nav className="fixed top-0 w-full bg-black bg-opacity-70 text-white z-50">
+    <nav className="fixed top-0 left-0 w-full bg-black bg-opacity-80 text-white z-50">
       <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
         <div className="text-xl font-bold tracking-wide">SUJIN PD</div>
         <div className="space-x-6 text-sm md:text-base">
